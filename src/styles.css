@@ -31,6 +31,8 @@ p {
     padding: 20px;
     margin-left: auto;
     margin-right: auto;
+    border-radius: 35px;
+    outline: none;
 }
 
 img{
